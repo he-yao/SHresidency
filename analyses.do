@@ -1,7 +1,7 @@
 /* -------------------------------------
 AUTHOR: Yao He
-PURPOSE: SH residency training trial run
-DATE CREATED: 07/04/2017
+PURPOSE: SH residency training
+DATE CREATED: 12/01/2017
 NOTES:
 CHANGELOG: Dataset and multilevel
 ----------------------------------- */
